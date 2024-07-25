@@ -276,7 +276,7 @@ class: center, inverse
 #### R-Ladies Aurora
 <a href="mailto:aurora.colorado@rladies.org"><i class="fa fa-paper-plane fa-fw"></i>&nbsp; aurora.colorado@rladies.org</a><br>
 <a href="http://twitter.com/RLadies_Aurora"><i class="fa fa-twitter fa-fw"></i>&nbsp; @RLadies_Aurora</a><br>
-<a href="http://meetup.com/rladies-aurora/"><i class="fa fa-meetup fa-fw"></i>&nbsp; rladies-east-lansing</a><br>
+<a href="http://meetup.com/rladies-aurora/"><i class="fa fa-meetup fa-fw"></i>&nbsp; rladies-aurora</a><br>
 <a href="http://github.com/rladies-aurora"><i class="fa fa-github fa-fw"></i>&nbsp; @rladies-aurora</a><br>
 <a href="https://discord.gg/xzvB4QXK"><i class="fa fa-slack fa-fw"></i>&nbsp; https://discord.gg/xzvB4QXK</a><br>
 
